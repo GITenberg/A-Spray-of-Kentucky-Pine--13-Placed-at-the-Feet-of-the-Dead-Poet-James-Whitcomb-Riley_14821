@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5702'
     url: http://www.gutenberg.org/2009/agents/5702
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14821#A-Spray-of-Kentucky-Pine--13-Placed-at-the-Feet-of-the-Dead-Poet-James-Whitcomb-Riley
 gutenberg_issued: '2005-01-28'
 gutenberg_type: Text
 identifiers:
